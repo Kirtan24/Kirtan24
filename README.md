@@ -1,16 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pithadiya Kirtan</h1>
 <h3 align="center">Passionate Web Developer | Exploring the World of Native App Development 🌐📱</h3>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kirtan24&theme=onestar&column=8&margin-w=15&margin-h=15" alt="kirtan24" />
-  </a> 
-</p>
-
 [![An image of @kirtan24's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kirtan24)](https://holopin.io/@kirtan24)
-
-
-
 
 - 🚀 I'm diving into the world of **Dart, Flutter, and Native App Development** – building the future, one app at a time! 🚀
 
