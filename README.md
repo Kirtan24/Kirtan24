@@ -22,7 +22,7 @@
 </p>
 
 
-<h3 align="left">Let's Connect:</h3>
+<h3 align="left">🔗 Let's Connect:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/kirtan-pithadiya" target="blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -39,25 +39,37 @@
 </p>
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left"><strong>🛠️ Skills and Technologies</strong></h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap" alt="Bootstrap">&nbsp;
+  <!-- Languages -->
+  <strong>Languages:</strong><br>
   <img src="https://img.shields.io/badge/-C-05122A?style=flat&logo=c" alt="C">&nbsp;
   <img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus" alt="C++">&nbsp;
   <img src="https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3" alt="CSS3">&nbsp;
   <img src="https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart" alt="Dart">&nbsp;
-  <img src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django" alt="Django">&nbsp;
-  <img src="https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter" alt="Flutter">&nbsp;
-  <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" alt="Git">&nbsp;
   <img src="https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5" alt="HTML5">&nbsp;
   <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="JavaScript">&nbsp;
+  <img src="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php" alt="PHP">&nbsp;
+  <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" alt="Python">&nbsp;
+</p>
+
+<p align="left">
+  <!-- Frameworks -->
+  <strong>Frameworks:</strong><br>
+  <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap" alt="Bootstrap">&nbsp;
+  <img src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django" alt="Django">&nbsp;
+  <img src="https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter" alt="Flutter">&nbsp;
   <img src="https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel" alt="Laravel">&nbsp;
+</p>
+
+<p align="left">
+  <!-- Tools and Technologies -->
+  <strong>Tools and Technologies:</strong><br>
+  <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" alt="Git">&nbsp;
   <img src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux" alt="Linux">&nbsp;
   <img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql" alt="MySQL">&nbsp;
-  <img src="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php" alt="PHP">&nbsp;
   <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql" alt="PostgreSQL">&nbsp;
   <img src="https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman" alt="Postman">&nbsp;
-  <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" alt="Python">&nbsp;
 </p>
 
 
