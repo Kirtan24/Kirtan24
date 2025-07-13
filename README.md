@@ -5,7 +5,7 @@
 
 - 🧠 I love solving problems through **clean backend architecture**, efficient **API design**, and scalable cloud deployments.
 
-- 💡 Let's talk about **System Design, Web Development (Laravel/Django)**, or **Automating DevOps Workflows** for production-grade applications.
+- 💡 Let's talk about **Automating DevOps Workflows** or **Web Development (Laravel/Django)** for production-grade applications.
 
 ---
 
