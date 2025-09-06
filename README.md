@@ -18,7 +18,7 @@
 
 <h3 align="left">📄 Resume</h3>
 <p align="left">
-  <a href="https://drive.google.com/file/d/1bXPQzI0FXyRV5BWBzKseEW1D-_gEbBgo/view?usp=drive_link" target="blank">
+  <a href="https://drive.google.com/file/d/1ckg_-5vIDgyWw6CbFUZy79tehTz9rKwa/view?usp=sharing" target="blank">
     <img src="https://img.shields.io/badge/-Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume">
   </a>
 </p>
@@ -61,6 +61,7 @@
 <p align="left">
   <strong>DevOps & Cloud:</strong><br>
   <img src="https://img.shields.io/badge/-Microsoft Azure-05122A?style=flat&logo=microsoftazure">&nbsp;
+  <img src="https://img.shields.io/badge/-AWS-05122A?style=flat&logo=microsoftazure">&nbsp;
   <img src="https://img.shields.io/badge/-Azure DevOps-05122A?style=flat&logo=azuredevops">&nbsp;
   <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker">&nbsp;
   <img src="https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes">&nbsp;
@@ -81,16 +82,12 @@
 <h3 align="left">📌 Featured Projects</h3>
 
 - **[Template Management System](https://github.com/Kirtan24/templates.io)**  
-  Laravel, MySQL, Azure, CI/CD, Docker, Kubernetes  
+  Django, MySQL, Azure, CI/CD, Docker, Kubernetes  
   → A complete document/email template manager with role-based access, OAuth-secured mailing, dynamic document signing, and automated workflows.  
   → Deployed with Azure DevOps pipelines using Docker + K8s and monitored via Cron jobs for scheduling and health checks.
 
 - **[Nexus Library](https://github.com/Kirtan24/nexus_library)**  
   Python, PostgreSQL, OOP, Design Patterns  
   → Scalable digital library using SOLID principles and patterns like Factory & Observer with smart recommendations and late fee automation.
-
-- **Disaster Management System**  
-  PostgreSQL, Python  
-  → Normalized schema design with emergency resource allocation and authority-based workflows, backed by a formal SRS.
-
+  
 ---
