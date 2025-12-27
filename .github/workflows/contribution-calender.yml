@@ -19,16 +19,14 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: Kirtan24
 
-          # Disable everything
+          output: dist/metrics-isocalendar.svg
+
           base: ""
 
-          # Enable ONLY contribution calendar
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
-          # Appearance
           config_timezone: Asia/Calcutta
           config_display: large
           config_twemoji: yes
           config_octicon: yes
-          config_padding: 0, 8
