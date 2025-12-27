@@ -66,7 +66,7 @@
   <a href="https://www.leetcode.com/kirtan_2408" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/pithadiyamhtt/profile" target="_blank">
+  <a href="https://www.geeksforgeeks.org/profile/pithadiyamhtt?tab=activity" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-008000?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
 </p>
