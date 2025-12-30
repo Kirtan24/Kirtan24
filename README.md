@@ -18,8 +18,6 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=1E1E1E" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=1E1E1E" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 <p align="left">
@@ -27,20 +25,22 @@
   <img src="https://img.shields.io/badge/Django-0C4B33?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-F9322C?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 </p>
+
 
 <p align="left">
   <strong>DevOps, Cloud, Infrastructure & Monitoring:</strong><br>
-  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
-  <img src="https://img.shields.io/badge/Jenkins-49728B?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=1E1E1E" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-49728B?style=for-the-badge&logo=jenkins&logoColor=white" />
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=1E1E1E" />
 </p>
 
 <p align="left">
@@ -48,7 +48,6 @@
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" />
 </p>
 
 <p align="left">
@@ -70,6 +69,205 @@
     <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-008000?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
 </p>
+
+---
+
+<h3 align="left">🌟 Featured Projects</h3>
+
+<table width="100%">
+<tr>
+
+<!-- ================= PROJECT 1: PropEase ================= -->
+<td width="50%" valign="top">
+
+<h2 align="center">🏠 PropEase</h3>
+
+<div align="center">
+  
+![Production](https://img.shields.io/badge/STATUS-PRODUCTION-00C853?style=flat-square&labelColor=1a1a1a)
+![Serverless](https://img.shields.io/badge/ARCHITECTURE-SERVERLESS-FF9900?style=flat-square&labelColor=1a1a1a)
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=awsfargate&logoColor=white)
+
+</div>
+
+### 📋 Project Overview
+
+A **production-grade real estate management platform** enabling users to list, discover, rent, and manage properties through a secure and scalable web application. Built with microservice-oriented architecture on AWS ECS Fargate for complete serverless operation.
+
+### ✨ Key Features
+
+- **Smart Property Discovery** - Advanced filtering with interactive map-based browsing
+- **Real-Time Communication** - WebSocket-based chat between buyers and sellers
+- **Secure Authentication** - JWT-based with role-based access control (RBAC)
+- **Financial Tools** - Integrated EMI calculator for loan planning
+- **Zero Server Management** - Fully containerized on AWS Fargate
+
+### 🎯 Technical Highlights
+
+```
+✓ Microservice architecture on AWS ECS
+✓ Automated CI/CD pipelines
+✓ Horizontal auto-scaling
+✓ 99.9% uptime guarantee
+```
+<div align="center">
+
+[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshwadhwani-10/PropEase-Real-Estate-Management-System)
+[![Live Application](https://img.shields.io/badge/LIVE_APPLICATION-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.propease-reality.shop/)
+
+</div>
+
+</td>
+
+<!-- ================= PROJECT 2: Template.io ================= -->
+<td width="50%" valign="top">
+
+<h2 align="center">📝 Template.io</h2>
+
+<div align="center">
+  
+![Production](https://img.shields.io/badge/STATUS-PRODUCTION-00C853?style=flat-square&labelColor=1a1a1a)
+![Security](https://img.shields.io/badge/SECURITY-RBAC_ENABLED-2196F3?style=flat-square&labelColor=1a1a1a)
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![E-Signatures](https://img.shields.io/badge/E--Signatures-Integrated-00C853?style=flat-square&logo=adobeacrobatreader&logoColor=white)
+
+</div>
+
+### 📋 Project Overview
+
+A **centralized Template Management System (TMS)** designed to streamline document and email template workflows for teams and businesses. Eliminates manual document creation, inconsistent formatting, and approval bottlenecks through automation and security.
+
+### ✨ Key Features
+
+- **Centralized Repository** - Single source of truth for all templates
+- **Dynamic Fields** - Automated document generation with variable data
+- **Role-Based Access** - Granular permissions for different user types
+- **E-Signature Integration** - Built-in digital signature workflows
+- **Email Management** - Tracking, scheduling, and resending capabilities
+
+### 🎯 Problems Solved
+
+```
+✓ Eliminates manual document creation
+✓ Ensures consistent branding
+✓ Streamlines approval workflows
+✓ Tracks document usage and metrics
+```
+
+<div align="center">
+
+[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kirtan24/Template.io) 
+[![Live Application](https://img.shields.io/badge/LIVE_APPLICATION-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white)](https://template-io-one.vercel.app/)
+
+</div>
+
+</td>
+
+</tr>
+<tr>
+
+<!-- ================= PROJECT 3: Cloudlet ================= -->
+<td width="50%" valign="top">
+
+<h2 align="center">☁️ Cloudlet</h2>
+
+<div align="center">
+  
+![Development](https://img.shields.io/badge/STATUS-ACTIVE_DEVELOPMENT-FF9800?style=flat-square&labelColor=1a1a1a)
+![CDN](https://img.shields.io/badge/DELIVERY-GLOBAL_CDN-2196F3?style=flat-square&labelColor=1a1a1a)
+
+![AWS](https://img.shields.io/badge/AWS_Cloud-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![S3](https://img.shields.io/badge/S3_Storage-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![CloudFront](https://img.shields.io/badge/CloudFront-8C4FFF?style=flat-square&logo=amazonaws&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-00C853?style=flat-square&logo=fastapi&logoColor=white)
+
+</div>
+
+### 📋 Project Overview
+
+A **cloud-native media storage and delivery platform** for securely uploading, managing, and delivering media assets (images, videos, files) at scale. Abstracts the complexity of media handling, security, and scalability for developers.
+
+### ✨ Key Features
+
+- **Secure Uploads** - Pre-signed URLs eliminate credential exposure
+- **Metadata Management** - Centralized asset tracking and organization
+- **Global CDN Delivery** - Low-latency content delivery worldwide
+- **Multi-Tenant Architecture** - Scalable for multiple organizations
+- **Developer-Friendly API** - RESTful endpoints with comprehensive docs
+
+### 🎯 Problems Solved
+
+```
+✓ Eliminates slow upload/download speeds
+✓ Provides infinite scalability
+✓ Secures storage credentials
+✓ Enables usage tracking and analytics
+✓ Reduces infrastructure management
+```
+
+<div align="center">
+
+[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kirtan24/Cloudlet)
+
+</div>
+
+</td>
+
+<!-- ================= PROJECT 4: Nexus Library ================= -->
+<td width="50%" valign="top">
+
+<h2 align="center">📚 Nexus Library</h2>
+
+<div align="center">
+  
+![Completed](https://img.shields.io/badge/STATUS-COMPLETED-2196F3?style=flat-square&labelColor=1a1a1a)
+![Desktop](https://img.shields.io/badge/PLATFORM-DESKTOP-9C27B0?style=flat-square&labelColor=1a1a1a)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter_GUI-FFCA28?style=flat-square&logo=python&logoColor=black)
+![OOP](https://img.shields.io/badge/OOP_Design-00C853?style=flat-square&logo=python&logoColor=white)
+
+</div>
+
+### 📋 Project Overview
+
+A **desktop-based digital library management system** implementing object-oriented programming principles and design patterns for efficient resource handling. Manages books, users, and lending workflows with reliable database-backed persistence.
+
+### ✨ Key Features
+
+- **Book Management** - Complete CRUD operations for library resources
+- **Member Tracking** - User registration and profile management
+- **Issue/Return System** - Automated lending workflow with due dates
+- **PostgreSQL Backend** - Reliable persistent data storage
+- **Clean Architecture** - Strong OOP foundation with design patterns
+
+### 🎯 Technical Highlights
+
+```
+✓ Object-oriented design principles
+✓ MVC architecture pattern
+✓ Transaction management
+✓ Intuitive desktop UI
+```
+
+<div align="center">
+
+
+[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kirtan24/Nexus-Library)
+
+</div>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
