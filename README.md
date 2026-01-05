@@ -198,7 +198,7 @@ A **cloud-native media storage and delivery platform** for securely uploading, m
 - **Secure Uploads** - Pre-signed URLs eliminate credential exposure
 - **Metadata Management** - Centralized asset tracking and organization
 - **Global CDN Delivery** - Low-latency content delivery worldwide
-- **Multi-Tenant Architecture** - Scalable for multiple organizations
+<!-- - **Multi-Tenant Architecture** - Scalable for multiple organizations -->
 - **Developer-Friendly API** - RESTful endpoints with comprehensive docs
 
 ### 🎯 Problems Solved
