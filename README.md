@@ -78,7 +78,7 @@
 <tr>
 
 <!-- ================= PROJECT 1: PropEase ================= -->
-<td width="50%" valign="top">
+<td>
 
 <h2 align="center">🏠 PropEase</h3>
 
@@ -122,9 +122,11 @@ A **production-grade real estate management platform** enabling users to list, d
 </div>
 
 </td>
+</tr>
 
+<tr>
 <!-- ================= PROJECT 2: Template.io ================= -->
-<td width="50%" valign="top">
+<td>
 
 <h2 align="center">📝 Template.io</h2>
 
@@ -173,7 +175,7 @@ A **centralized Template Management System (TMS)** designed to streamline docume
 <tr>
 
 <!-- ================= PROJECT 3: Cloudlet ================= -->
-<td width="50%" valign="top">
+<td>
 
 <h2 align="center">☁️ Cloudlet</h2>
 
@@ -198,7 +200,6 @@ A **cloud-native media storage and delivery platform** for securely uploading, m
 - **Secure Uploads** - Pre-signed URLs eliminate credential exposure
 - **Metadata Management** - Centralized asset tracking and organization
 - **Global CDN Delivery** - Low-latency content delivery worldwide
-<!-- - **Multi-Tenant Architecture** - Scalable for multiple organizations -->
 - **Developer-Friendly API** - RESTful endpoints with comprehensive docs
 
 ### 🎯 Problems Solved
@@ -218,9 +219,10 @@ A **cloud-native media storage and delivery platform** for securely uploading, m
 </div>
 
 </td>
-
+</tr>
+<tr>
 <!-- ================= PROJECT 4: Nexus Library ================= -->
-<td width="50%" valign="top">
+<td >
 
 <h2 align="center">📚 Nexus Library</h2>
 
