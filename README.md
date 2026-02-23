@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Kirtan%20Pithadiya&textBg=false&section=header&reversal=true&animation=fadeIn&desc=DevOps%20Enthusiast%20and%20Software%20Developer&descSize=20&descAlign=50&descAlignY=66" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Kirtan%20Pithadiya&textBg=false&section=header&animation=fadeIn&fontColor=ffffff&desc=Software%20Developer%20%E2%80%A2%20Cloud%20Engineer%20%E2%80%A2%20DevOps%20Enthusiast&descSize=22&descAlign=50&descAlignY=68&descColor=ffffff" />
 </p>
 
 - I’m a **Software Developer and DevOps Engineer** focused on building and operating **scalable, reliable, and automated cloud-native systems**.
